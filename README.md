@@ -6,7 +6,7 @@
 </p>
 <div align="center">   
   <hr>
-  <h3>👋 Hi, I'm Yunsu Shin!</h3>
+  <h3>👋 Hi, I'm Junwoo Song!</h3>
   
   <p>🎓 Studying Information System at Hanyang University</p>
   <hr>
@@ -30,8 +30,8 @@
 
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
-  <a href="https://github.com/sysys10" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:yunsu102896@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/infolion" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jwsong5160@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
   <br>
   <h2>🛠️ Technologies & Tools:</h2>
