@@ -1,8 +1,8 @@
-<h1 align="center">Yunsu, Shin's Github Page</h1>
+<h1 align="center">JW song's Github Page</h1>
 
 <p align="center">
-  <img align='center' src="http://mazandi.herokuapp.com/api?handle=ys10&theme=cold">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ys10">
+  <img align='center' src="http://mazandi.herokuapp.com/api?handle=jwsong0595&theme=cold">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwsong0595">
 </p>
 <div align="center">   
   <hr>
