@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td width="50%" align="right"><strong>2024 - Present</strong></td>
-      <td width="50%">한양대학교 정보시스템학과  /n 재학중(2학년)</td>
+      <td width="50%">한양대학교 정보시스템학과     재학중(2학년)</td>
       
     </tr>
     <tr>
