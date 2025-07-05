@@ -1,6 +1,4 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E4A84&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Junwoo+Song;Information+Systems+Student;at Hanyang+University" alt="Typing SVG" />
-</h1>
+
 
 <div align="center">
   <img width="400" src="http://mazandi.herokuapp.com/api?handle=jwsong0595&theme=cold" alt="Solved.ac Profile" />
