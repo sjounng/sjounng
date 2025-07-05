@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines='Hello,+I'm+Junwoo+Song!;Welcome+to+my+GitHub!;Information+Systems+Student;Hanyang+University&center=true&size=30&color=58A6FF&duration=3000&pause=1000">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E4A84&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Junwoo+Song;Information+Systems+Student;at Hanyan+University" alt="Typing SVG" />
 </h1>
 
 <div align="center">
