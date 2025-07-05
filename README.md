@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines= Hello,+I'm+Junwoo+Song!;Welcome+to+my+GitHub!;Information+Systems+Student&center=true&size=30&color=58A6FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Junwoo+Song!;Welcome+to+my+GitHub!;Information+Systems+Student;Hanyang+University&center=true&size=30&color=58A6FF&duration=3000&pause=1000">
 </h1>
 
 <div align="center">
