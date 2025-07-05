@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines= Hello,+I'm+Junwoo+Song!;Welcome+to+my+GitHub!;Information+Systems+Student&center=true&size=30&color=58A6FF">
 </h1>
 
-
-
 <div align="center">
   <img width="400" src="http://mazandi.herokuapp.com/api?handle=jwsong0595&theme=cold" alt="Solved.ac Profile" />
   <img width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwsong0595" alt="BOJ Profile" />
