@@ -77,6 +77,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer" />
 
-**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
 
 </div>
