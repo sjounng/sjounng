@@ -1,3 +1,26 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Junwoo+Song!;Welcome+to+my+GitHub!;Full+Stack+Developer;Information+Systems+Student&center=true&size=30&color=58A6FF">
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sjounng&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sjounng?color=58A6FF&style=flat-square&logo=github" alt="GitHub Followers" />
+</p>
+
+<div align="center">
+  <img width="400" src="http://mazandi.herokuapp.com/api?handle=jwsong0595&theme=cold" alt="Solved.ac Profile" />
+  <img width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwsong0595" alt="BOJ Profile" />
+</div>
+
+---
+
+<div align="center">
+  
+## 🚀 About Me
+
+**🎓 Information Systems Student** at **Hanyang University**  
+**💻 Passionate Full-Stack Developer** | **🔍 Problem Solver** | **📚 Lifelong Learner**
+
 
 </div>
 
