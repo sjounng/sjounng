@@ -60,16 +60,6 @@
 
 </div>
 
----
-
-## 🏆 Achievements & Projects
-
-<div align="center">
-
-### 🌟 Featured Projects
-- 🤖 **AI Chatbot**: FastAPI + Next.js로 구현한 한양대학교 정보 제공 챗봇
-- 📚 **Algorithm Solutions**: 백준, 프로그래머스 문제 해결
-- 💻 **Web Applications**: React/Next.js 기반 프로젝트들
 
 </div>
 
