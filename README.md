@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines= Hello,+I'm+Junwoo+Song!;Welcome+to+my+GitHub!;Information+Systems+Student&center=true&size=30&color=58A6FF">
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sjounng&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sjounng?color=58A6FF&style=flat-square&logo=github" alt="GitHub Followers" />
-</p>
+
 
 <div align="center">
   <img width="400" src="http://mazandi.herokuapp.com/api?handle=jwsong0595&theme=cold" alt="Solved.ac Profile" />
