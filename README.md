@@ -12,7 +12,8 @@
 ## 🚀 About Me
 
 **🎓 Information Systems Student** at **Hanyang University**  
-**💻 Passionate Full-Stack Developer** | **🔍 Problem Solver** | **📚 Lifelong Learner**
+**💻 Passionate Full-Stack Developer** | **🔍 Problem Solver** 
+
 
 
 </div>
