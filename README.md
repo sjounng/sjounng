@@ -1,10 +1,4 @@
 
-
-<div align="center">
-  <img width="400" src="http://mazandi.herokuapp.com/api?handle=jwsong0595&theme=cold" alt="Solved.ac Profile" />
-  <img width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwsong0595" alt="BOJ Profile" />
-</div>
-
 ---
 
 <div align="center">
@@ -50,6 +44,12 @@
 </div>
 
 ---
+
+## solved.ac Stats
+<div align="center">
+  <img width="400" src="http://mazandi.herokuapp.com/api?handle=jwsong0595&theme=cold" alt="Solved.ac Profile" />
+  <img width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwsong0595" alt="BOJ Profile" />
+</div>
 
 ## 📊 GitHub Stats
 
