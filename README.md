@@ -50,16 +50,6 @@
   <img width="400" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwsong0595" alt="BOJ Profile" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sjounng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sjounng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjounng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
