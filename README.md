@@ -1,7 +1,7 @@
 
 <div align="center">
   
-## 🚀 About Me
+## About Me
 **🎓 Information Systems Student** at **Hanyang University**  
 **💻 Passionate Full-Stack Developer** | **🔍 Problem Solver** 
 </div>
